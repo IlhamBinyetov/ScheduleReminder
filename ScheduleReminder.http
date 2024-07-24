@@ -1,0 +1,6 @@
+@ScheduleReminder_HostAddress = http://localhost:5100
+
+GET {{ScheduleReminder_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
